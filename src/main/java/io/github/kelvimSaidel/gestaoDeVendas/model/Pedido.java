@@ -1,4 +1,4 @@
-package io.github.kelvimSaidel.gestaoDeVendas;
+package io.github.kelvimSaidel.gestaoDeVendas.model;
 
 public class Pedido {
 }
